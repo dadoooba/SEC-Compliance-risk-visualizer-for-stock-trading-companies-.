@@ -1,1 +1,3 @@
 # SEC-Compliance-risk-visualizer-for-stock-trading-companies-.
+Developed a scalable tool to assess compliance risks for stock trading companies using unstructured SEC filings. Leveraged Apache Spark for scraping and parsing EDGAR data, TextBlob for sentiment-based risk scoring, and Streamlit + Plotly to build an interactive dashboard. Risk scores were computed using keyword analysis and sentiment polarity, classifying filings into five risk levels. Tested on Apple, Microsoft, and Google disclosures, the system converts 1.12GB of data into actionable compliance insights, supporting regulators and investors in early risk detection and decision-making.
+
